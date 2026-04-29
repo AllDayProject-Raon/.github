@@ -9,7 +9,7 @@
 개방형 표준을 기반으로, 발급부터 검증까지 이어지는 실용적인 자격증명 기술을 구축합니다.
 
 <p>
-  <a href="https://github.com/OmniTwo">
+  <a href="https://github.com/AllDayProject-Raon">
     <img src="https://img.shields.io/badge/GitHub-OmniTwo-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=OmniTwo&style=for-the-badge&color=0e7490" alt="방문자 수" />
@@ -58,9 +58,9 @@
 ## 바로가기
 
 <p>
-  <a href="https://github.com/OmniTwo"><img src="https://img.shields.io/badge/조직%20홈-바로가기-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="조직 홈" /></a>
-  <a href="https://github.com/orgs/OmniTwo/repositories"><img src="https://img.shields.io/badge/저장소-둘러보기-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="저장소 둘러보기" /></a>
-  <a href="https://github.com/OmniTwo/.github/issues"><img src="https://img.shields.io/badge/이슈-문의%20및%20제안-dc2626?style=for-the-badge&logo=githubissues&logoColor=white" alt="이슈" /></a>
+  <a href="https://github.com/AllDayProject-Raon"><img src="https://img.shields.io/badge/조직%20홈-바로가기-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="조직 홈" /></a>
+  <a href="https://github.com/orgs/AllDayProject-Raon/repositories"><img src="https://img.shields.io/badge/저장소-둘러보기-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="저장소 둘러보기" /></a>
+  <a href="https://github.com/AllDayProject-Raon/.github/issues"><img src="https://img.shields.io/badge/이슈-문의%20및%20제안-dc2626?style=for-the-badge&logo=githubissues&logoColor=white" alt="이슈" /></a>
 </p>
 
 조직의 저장소를 둘러보며 디지털 신원 기술 스택의 구성 요소, 실험, 구현 결과를 확인할 수 있습니다.
