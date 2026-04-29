@@ -10,9 +10,9 @@
 
 <p>
   <a href="https://github.com/AllDayProject-Raon">
-    <img src="https://img.shields.io/badge/GitHub-OmniTwo-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ADF-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=OmniTwo&style=for-the-badge&color=0e7490" alt="방문자 수" />
+  <img src="https://komarev.com/ghpvc/?username=ADF&style=for-the-badge&color=0e7490" alt="방문자 수" />
 </p>
 
 <p>
